@@ -2,7 +2,7 @@
 
 A short summary of ES6 features and their ES5 equivalents. 
 
-More [ES6 articles](http://www.zsoltnagy.eu/category/es6/) in depth.
+Access in-depth [ES6 articles](http://www.zsoltnagy.eu/category/es6/) here.
 
 ## Arrow Functions
 
