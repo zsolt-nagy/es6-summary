@@ -6,9 +6,32 @@ Access in-depth [ES6 articles](http://www.zsoltnagy.eu/category/es6/) here.
 
 **Table of contents**
 
-- [Arrow Functions](#arrow-functions)
-- [Functions](#functions)
-
+1. [Arrow Functions](#arrow-functions)
+2. [Functions](#functions)
+3. [Scope](#scope)
+4. [Default Argument Values](#default-argument-values)
+5. [Classes](#classes)
+6. [Object Property Shorthand Notation](#object-property-shorthand-notation)
+7. [Destructuring](#destructuring)
+8. [Rest Parameters](#rest-parameters)
+9. [Objects](#objects-1)
+10. [Tail call optimization](#tail-call-optimization)
+11. [Symbols](#symbols)
+12. [Sets](#sets)
+13. [Maps](#maps)
+14. [Weak Sets](#weak-sets)
+15. [Weak Maps](#weak-maps)
+16. [for...of loop](#forof-loop)
+17. [Iterable Interface](#iterable-interface)
+18. [Generator functions](#generators-functions)
+19. [Strings](#strings)
+20. [Template literals](#template-literals)
+21. [Tag functions for Template Literals](#tag-functions-for-template-literals)
+22. [Promises](#promises)
+23. [Modules](#modules)
+24. [Reflect API](#reflect-api)
+25. [Proxies](#proxies)
+26. [59 Exercises](#59-exercises)
 
 ## Arrow Functions
 
@@ -935,8 +958,16 @@ export default C;
 
 ## Reflect API
 
+The Reflect API is far too complex to be summarized in a couple of paragraphs. It is also an advanced topic, requiring in-depth understanding. For this reason, I highly recommend the below article.
+
 [Reflect API](http://www.zsoltnagy.eu/the-reflect-api-of-es6/)
 
 ## Proxies 
 
-Coming soon...
+Proxies are not only complex, but they heavily build on the Reflect API. Check out this article to learn them.
+
+[Proxies in Practice](http://www.zsoltnagy.eu/es6-proxies-in-practice/)
+
+## 59 Exercises
+
+Check out [ES6 in Practice](https://leanpub.com/es6-in-practice), and put theory into practice by solving 59 exercises, and checking out their reference solutions.
