@@ -4,6 +4,12 @@ A short summary of ES6 features and their ES5 equivalents.
 
 Access in-depth [ES6 articles](http://www.zsoltnagy.eu/category/es6/) here.
 
+**Table of contents**
+
+- [Arrow Functions](#arrow-functions)
+- [Functions](#functions)
+
+
 ## Arrow Functions
 
 - describes a mapping between the argument list and return value
