@@ -14,6 +14,7 @@ Access in-depth [ES6 articles](http://www.zsoltnagy.eu/category/es6/) here.
 6. [Object Property Shorthand Notation](#object-property-shorthand-notation)
 7. [Destructuring](#destructuring)
 8. [Rest Parameters](#rest-parameters)
+9. [Spread Operator](#spread-operator)
 9. [Objects](#objects-1)
 10. [Tail call optimization](#tail-call-optimization)
 11. [Symbols](#symbols)
