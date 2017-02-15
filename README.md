@@ -438,6 +438,28 @@ L2 = R2;
 > rest: ["Second", 3]
 ```
 
+## Spread operator
+
+```
+const arr = [1, 2, 3];
+
+// ...arr spreads the elements of arr into comma separated values
+[ ...arr, ...arr ]
+> [1, 2, 3, 1, 2, 3]
+
+Math.max( ...arr ) // same as Math.max( 1, 2, 3 )
+> 3
+```
+
+- Strings are spread as comma separated strings of one character each.
+
+```
+[...'ES6']
+> ["E", "S", "6"]
+```
+
+- ES5 equivalents: loops, utility functions, `call` / `apply` function for calling functions with a variable number of arguments
+
 ## Objects
 
 ### Object.assign
