@@ -73,7 +73,7 @@ function( a, b ) {
 
 // 4.
 function() {
-    let args = arguments;
+    var args = arguments;
     statements;
 }.bind( this );
 ```
