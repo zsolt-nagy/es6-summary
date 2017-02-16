@@ -59,6 +59,12 @@ a => { return value; }
     statements;
     return value;
 }
+
+// 5.
+({ a, b }) => {
+    statements;
+    return value;
+}
 ```
 
 ```
